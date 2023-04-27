@@ -1,0 +1,16 @@
+.sec1{
+    height: 95vh;
+}
+#form{
+height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border: 1px dashed blue;
+    flex-direction: column;
+    row-gap: 10px;
+    #labelChecked{
+        visibility: hidden;
+    }
+}
