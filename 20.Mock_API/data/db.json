@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "Rashid12",
+      "email": "Rashid@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "salam",
+      "email": "salam@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "RZS",
+      "email": "RZS@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "asdasd",
+      "email": "asdasd@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "cfgyf",
+      "email": "vchgv@gmail.com",
+      "id": 5
+    }
+  ]
+}
