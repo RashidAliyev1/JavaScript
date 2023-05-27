@@ -34,7 +34,7 @@ function getAllData(arr) {
 }
 
 async function deleteCard(id, btn) {
-  axios.delete(`http://localhost:8060/gym/${id}`);
+  axios.delete(`http://localhost:8080/gym/${id}`);
   btn.parentElement.parentElement.parentElement.remove();
 }
 
@@ -59,7 +59,7 @@ searchInp.addEventListener("input" , function (e) {
    bool = !bool;
    console.log(bool);
  
-   axios.get("http://localhost:8060/gym").then((res) => {
+   axios.get("http://localhost:8080/gym").then((res) => {
      let sorted = res.data.sort((a, b) => {
        if (!bool) {
          return a.title.localeCompare(b.title)
