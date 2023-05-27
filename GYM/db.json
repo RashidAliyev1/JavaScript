@@ -1,0 +1,30 @@
+{
+  "gym": [
+    {
+      "img": "./assets/image/o1.png",
+      "title": "Regular Exercise",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+      "id": 2
+    },
+    {
+      "img": "./assets/image/o2.png",
+      "title": "Training on the go",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+      "id": 3
+    },
+    {
+      "img": "./assets/image/o3.png",
+      "title": "Body Building Packages",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+      "id": 1
+    }
+  ],
+  "favs": [
+    {
+      "img": "./assets/image/o3.png",
+      "title": "Body Building Packages",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore",
+      "id": 1
+    }
+  ]
+}

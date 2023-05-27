@@ -1,0 +1,19 @@
+#sec1{
+    background-image: url("https://preview.colorlib.com/theme/gym/img/header-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    .sec1{
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+        h1{
+            font-size:45px;
+            font-weight: 650;
+        }
+    }
+}
